@@ -1,0 +1,12 @@
+/data/*
+*/__pycache__/*
+
+
+/runs/Dec13_05-45-06_IZUMI_PC_GAN_V2
+/results/large_model
+#remote: warning: File runs/Dec13_05-45-06_IZUMI_PC/events.out.tfevents.1639345511.IZUMI_PC.24091.0_gan_v2 is 99.04 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB
+
+#remote: error: File results/srgan.pth is 107.77 MB; this exceeds GitHub's file size limit of 100.00 MB
+#remote: error: File results/srgan_sample.pth is 107.86 MB; this exceeds GitHub's file size limit of 100.00 MB
+#remote: error: File results/srgan_v2.pth is 287.67 MB; this exceeds GitHub's file size limit of 100.00 MB
+#remote: error: File results/srgan_v2_sample.pth is 107.86 MB; this exceeds GitHub's file size limit of 100.00 MB
